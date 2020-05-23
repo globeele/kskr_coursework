@@ -1,0 +1,49 @@
+D:\Курсачи\Грудницкий\CourseProject\CourseProject\bin\Debug\CourseProject.exe.config
+D:\Курсачи\Грудницкий\CourseProject\CourseProject\bin\Debug\CourseProject.exe
+D:\Курсачи\Грудницкий\CourseProject\CourseProject\bin\Debug\CourseProject.pdb
+D:\Курсачи\Грудницкий\CourseProject\CourseProject\obj\Debug\CourseProject.csprojAssemblyReference.cache
+D:\Курсачи\Грудницкий\CourseProject\CourseProject\obj\Debug\CourseProject.Form1.resources
+D:\Курсачи\Грудницкий\CourseProject\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+D:\Курсачи\Грудницкий\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.cache
+D:\Курсачи\Грудницкий\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+D:\Курсачи\Грудницкий\CourseProject\CourseProject\obj\Debug\CourseProject.exe
+D:\Курсачи\Грудницкий\CourseProject\CourseProject\obj\Debug\CourseProject.pdb
+E:\6 sem\КСКР\курсовая\CourseProject\CourseProject\bin\Debug\CourseProject.exe.config
+E:\6 sem\КСКР\курсовая\CourseProject\CourseProject\bin\Debug\CourseProject.exe
+E:\6 sem\КСКР\курсовая\CourseProject\CourseProject\bin\Debug\CourseProject.pdb
+E:\6 sem\КСКР\курсовая\CourseProject\CourseProject\obj\Debug\CourseProject.csprojAssemblyReference.cache
+E:\6 sem\КСКР\курсовая\CourseProject\CourseProject\obj\Debug\CourseProject.Form1.resources
+E:\6 sem\КСКР\курсовая\CourseProject\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+E:\6 sem\КСКР\курсовая\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.cache
+E:\6 sem\КСКР\курсовая\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+E:\6 sem\КСКР\курсовая\CourseProject\CourseProject\obj\Debug\CourseProject.exe
+E:\6 sem\КСКР\курсовая\CourseProject\CourseProject\obj\Debug\CourseProject.pdb
+E:\6 sem\CourseProject\CourseProject\bin\Debug\CourseProject.exe.config
+E:\6 sem\CourseProject\CourseProject\bin\Debug\CourseProject.exe
+E:\6 sem\CourseProject\CourseProject\bin\Debug\CourseProject.pdb
+E:\6 sem\CourseProject\CourseProject\obj\Debug\CourseProject.csprojAssemblyReference.cache
+E:\6 sem\CourseProject\CourseProject\obj\Debug\CourseProject.Form1.resources
+E:\6 sem\CourseProject\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+E:\6 sem\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.cache
+E:\6 sem\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+E:\6 sem\CourseProject\CourseProject\obj\Debug\CourseProject.exe
+E:\6 sem\CourseProject\CourseProject\obj\Debug\CourseProject.pdb
+C:\Users\Sony\Downloads\Telegram Desktop\CourseProject\CourseProject1\CourseProject\bin\Debug\CourseProject.exe.config
+C:\Users\Sony\Downloads\Telegram Desktop\CourseProject\CourseProject1\CourseProject\bin\Debug\CourseProject.exe
+C:\Users\Sony\Downloads\Telegram Desktop\CourseProject\CourseProject1\CourseProject\bin\Debug\CourseProject.pdb
+C:\Users\Sony\Downloads\Telegram Desktop\CourseProject\CourseProject1\CourseProject\obj\Debug\CourseProject.csprojAssemblyReference.cache
+C:\Users\Sony\Downloads\Telegram Desktop\CourseProject\CourseProject1\CourseProject\obj\Debug\CourseProject.Form1.resources
+C:\Users\Sony\Downloads\Telegram Desktop\CourseProject\CourseProject1\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+C:\Users\Sony\Downloads\Telegram Desktop\CourseProject\CourseProject1\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.cache
+C:\Users\Sony\Downloads\Telegram Desktop\CourseProject\CourseProject1\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\Sony\Downloads\Telegram Desktop\CourseProject\CourseProject1\CourseProject\obj\Debug\CourseProject.exe
+C:\Users\Sony\Downloads\Telegram Desktop\CourseProject\CourseProject1\CourseProject\obj\Debug\CourseProject.pdb
+C:\Users\asus\Downloads\Курсач_кронштейн\CourseProject1\CourseProject\bin\Debug\CourseProject.exe.config
+C:\Users\asus\Downloads\Курсач_кронштейн\CourseProject1\CourseProject\bin\Debug\CourseProject.exe
+C:\Users\asus\Downloads\Курсач_кронштейн\CourseProject1\CourseProject\bin\Debug\CourseProject.pdb
+C:\Users\asus\Downloads\Курсач_кронштейн\CourseProject1\CourseProject\obj\Debug\CourseProject.csprojAssemblyReference.cache
+C:\Users\asus\Downloads\Курсач_кронштейн\CourseProject1\CourseProject\obj\Debug\CourseProject.Form1.resources
+C:\Users\asus\Downloads\Курсач_кронштейн\CourseProject1\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+C:\Users\asus\Downloads\Курсач_кронштейн\CourseProject1\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\Курсач_кронштейн\CourseProject1\CourseProject\obj\Debug\CourseProject.exe
+C:\Users\asus\Downloads\Курсач_кронштейн\CourseProject1\CourseProject\obj\Debug\CourseProject.pdb

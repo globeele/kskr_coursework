@@ -1,0 +1,48 @@
+/BATCH  
+/COM,ANSYS RELEASE Release 16.2      BUILD 16.2      UP20150629       00:42:30
+/input,menust,tmp,''
+/COM,ANSYS RELEASE Release 16.2      BUILD 16.2      UP20150629       00:42:30
+/GRA,POWER
+/GST,ON
+/PLO,INFO,3
+/GRO,CURL,ON
+/CPLANE,1   
+/REPLOT,RESIZE  
+WPSTYLE,,,,,,,,0
+APLOT   
+/REPLOT,RESIZE  
+LPLOT   
+LPLOT   
+APLOT   
+NPLOT   
+EPLOT   
+/POST1  
+FINISH  
+/SOL
+FINISH  
+/POST1  
+PLDISP,0
+!*  
+/EFACET,1   
+PLNSOL, U,X, 0,1.0  
+!*  
+/EFACET,1   
+PLNSOL, U,SUM, 0,1.0
+!*  
+!*  
+/EFACET,1   
+PLNSOL, U,Y, 0,1.0  
+!*  
+/EFACET,1   
+PLNSOL, U,X, 0,1.0  
+!*  
+/EFACET,1   
+PLNSOL, S,EQV, 0,1.0
+!*  
+/EFACET,1   
+PLNSOL, S,X, 0,1.0  
+!*  
+/EFACET,1   
+PLNSOL, S,X, 0,1.0  
+FINISH  
+! /EXIT,MODEL   
